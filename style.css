@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --cor-fundo: #95ac12;
-    --cor-principal: #0b5a4d ;
-    --cor-secundaria: #22a170;
-    --cor-destaque: #2BDEFD;
+    --cor-fundo: #1dd35a;
+    --cor-principal: #179213 ;
+    --cor-secundaria: #074407;
+    --cor-destaque: #04cc90;
     --cor-texto: #D7F9FF;
 }
   
 body {
     background-color: var(--cor-fundo);
-    background-image: url(https://www.temameioambiente.com.br/doutor/uploads/2/blog/2023/02/cover-entenda-relacao-o-meio-ambiente-a-saude-1677600624597.jpg);
+    background-image: url(https://play-lh.googleusercontent.com/7iVVLvBUblWPFriJBm9QWKGVebX-5EnRI9ovrGnSD0E8ZqfZnb_Bedz44F6nK-tj3MY=w3840-h2160-rw);
     background-size: cover;
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
